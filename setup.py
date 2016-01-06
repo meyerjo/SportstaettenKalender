@@ -9,5 +9,5 @@ setup(
         author='Johannes Meyer',
         author_email='',
         description='',
-        requires=['icalendar', 'jsonpickle', 'beautifulsoup4']
+        install_requires=['icalendar', 'jsonpickle', 'beautifulsoup4']
 )
